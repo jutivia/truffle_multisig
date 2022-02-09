@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.4.32"
+  },
+  "name": "wallet",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
